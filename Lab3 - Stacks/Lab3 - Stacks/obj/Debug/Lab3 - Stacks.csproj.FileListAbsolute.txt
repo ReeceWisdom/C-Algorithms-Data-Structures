@@ -1,0 +1,14 @@
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.csprojAssemblyReference.cache
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.csproj.CoreCompileInputs.cache
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\bin\Debug\Lab3 - Stacks.exe.config
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\bin\Debug\Lab3 - Stacks.exe
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\bin\Debug\Lab3 - Stacks.pdb
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.exe
+C:\Users\17033849\source\repos\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.pdb
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\bin\Debug\Lab3 - Stacks.exe.config
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\bin\Debug\Lab3 - Stacks.exe
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\bin\Debug\Lab3 - Stacks.pdb
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.csprojAssemblyReference.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.csproj.CoreCompileInputs.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.exe
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab3 - Stacks\Lab3 - Stacks\obj\Debug\Lab3 - Stacks.pdb
