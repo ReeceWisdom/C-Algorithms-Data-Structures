@@ -1,0 +1,7 @@
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\bin\Debug\Lab3 - Queue.exe.config
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\bin\Debug\Lab3 - Queue.exe
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\bin\Debug\Lab3 - Queue.pdb
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\obj\Debug\Lab3 - Queue.csprojAssemblyReference.cache
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\obj\Debug\Lab3 - Queue.csproj.CoreCompileInputs.cache
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\obj\Debug\Lab3 - Queue.exe
+C:\Users\17033849\source\repos\Lab3 - Queue\Lab3 - Queue\obj\Debug\Lab3 - Queue.pdb
