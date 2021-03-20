@@ -1,0 +1,7 @@
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\bin\Debug\Lab8 - BinaryTrees.exe.config
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\bin\Debug\Lab8 - BinaryTrees.exe
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\bin\Debug\Lab8 - BinaryTrees.pdb
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\obj\Debug\Lab8 - BinaryTrees.csprojAssemblyReference.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\obj\Debug\Lab8 - BinaryTrees.csproj.CoreCompileInputs.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\obj\Debug\Lab8 - BinaryTrees.exe
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab8 - BinaryTrees\Lab8 - BinaryTrees\obj\Debug\Lab8 - BinaryTrees.pdb

@@ -1,0 +1,10 @@
+Z:\Dropbox\SDandDS\Code Attempts\CS-QuickSort\CS-QuickSort\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\SDandDS\Code Attempts\CS-QuickSort\CS-QuickSort\bin\Debug\CS-QuickSort.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-QuickSort\CS-QuickSort\bin\Debug\CS-QuickSort.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-QuickSort\CS-QuickSort\obj\Debug\CS-QuickSort.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-QuickSort\CS-QuickSort\obj\Debug\CS-QuickSort.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-QuickSort\obj\Debug\CS-QuickSort.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-QuickSort\obj\Debug\CS-QuickSort.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-QuickSort\bin\Debug\CS-QuickSort.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-QuickSort\bin\Debug\CS-QuickSort.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-QuickSort\obj\Debug\ResolveAssemblyReference.cache

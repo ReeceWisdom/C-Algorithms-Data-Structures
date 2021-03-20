@@ -1,0 +1,5 @@
+Z:\Dropbox\SDandDS\Code Attempts\CS-ProfilingExample\CS-ProfilingExample\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\SDandDS\Code Attempts\CS-ProfilingExample\CS-ProfilingExample\bin\Debug\CS-ProfilingExample.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-ProfilingExample\CS-ProfilingExample\bin\Debug\CS-ProfilingExample.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-ProfilingExample\CS-ProfilingExample\obj\Debug\CS-ProfilingExample.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-ProfilingExample\CS-ProfilingExample\obj\Debug\CS-ProfilingExample.pdb

@@ -1,0 +1,5 @@
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\CS-QuickSort.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.exe
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-ProfilingSort\bin\Debug\CS-QuickSort.pdb
+Z:\Dropbox\SDandDS\Code Attempts\CS-SortForProfiling\CS-ProfilingSort\obj\Debug\ResolveAssemblyReference.cache
