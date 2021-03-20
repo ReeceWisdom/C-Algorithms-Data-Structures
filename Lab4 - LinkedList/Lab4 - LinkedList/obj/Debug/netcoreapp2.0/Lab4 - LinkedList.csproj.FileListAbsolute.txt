@@ -1,0 +1,22 @@
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.deps.json
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.runtimeconfig.json
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.runtimeconfig.dev.json
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.dll
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.pdb
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.csprojAssemblyReference.cache
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.AssemblyInfoInputs.cache
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.AssemblyInfo.cs
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.dll
+C:\Users\17033849\source\repos\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.pdb
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.deps.json
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.runtimeconfig.json
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.runtimeconfig.dev.json
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.dll
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\bin\Debug\netcoreapp2.0\Lab4 - LinkedList.pdb
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.csprojAssemblyReference.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.csproj.CoreCompileInputs.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.AssemblyInfoInputs.cache
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.AssemblyInfo.cs
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.dll
+H:\Documents\University\Year 2\Algorithms & Data Structure\Lab4 - LinkedList\Lab4 - LinkedList\obj\Debug\netcoreapp2.0\Lab4 - LinkedList.pdb
